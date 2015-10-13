@@ -1,0 +1,30 @@
+.info1
+{
+	width: 290px;
+	border: 1px solid #c1c1c1;
+	margin: 20px 10px;
+	padding: 0 5px;
+	float: left;
+	
+}
+
+.info1 > p
+{
+	font-size: 12px;
+	color: black;
+	max-width: 290px;
+}
+.info
+{
+	width: 10000px;
+	margin: 0 auto;
+	
+
+}
+.heading2
+{
+	text-align: center;
+	font-size: 25px;
+	color:blue;
+	margin: 50px 50px 0;
+}
