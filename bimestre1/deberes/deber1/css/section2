@@ -1,0 +1,12 @@
+.banner 
+{
+	width: 200%;
+	display: block;
+}
+.banner>  .banner-img
+{
+
+	width: 50%;	
+	display: block;
+
+}
