@@ -1,0 +1,76 @@
+
+
+
+.cont
+{
+	font-size: 16px;
+	font-weight: bold;
+	background-color: #c1c1c1;
+	color: #ffffff;
+	padding: 10px 0;
+	margin: 0 -6px;
+}
+
+.cont > p , h1
+{
+	padding: 10px 100px;
+
+
+
+}
+
+h4{
+	font-size: 16px;
+
+
+}
+
+
+div.centraTabla{
+text-align: center;
+}
+div.centraTabla table {
+margin: 0 auto;
+text-align: left;
+}
+
+.heading
+{
+	text-align: center;
+	font-size: 25px;
+	color:#c1c1c1;
+	margin: 50px 50px 0;
+}
+
+
+
+.info1
+{
+	width: 290px;
+	border: 1px solid #c1c1c1;
+	margin: 20px 10px;
+	padding: 0 5px;
+	float: left;
+	
+}
+
+.info1 > p
+{
+	font-size: 12px;
+	color: black;
+	max-width: 290px;
+}
+.info
+{
+	width: 10000px;
+	margin: 0 auto;
+	
+
+}
+.heading2
+{
+	text-align: center;
+	font-size: 25px;
+	color:blue;
+	margin: 50px 50px 0;
+}
