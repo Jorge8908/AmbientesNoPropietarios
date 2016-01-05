@@ -1,0 +1,319 @@
+.par{
+    font-size: 9px;
+}
+
+.boton{
+    background-color:#2190c1;
+    padding:5px 15px;
+    color:white;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    margin-top: 15px;
+}
+#menu{
+    height: 53px;
+    background-color: white;
+}
+
+#carrusel{
+	height: 400px;
+}
+
+#our_services{
+	height: 325px;
+	background-color: #f4f4f4;
+	position: relative;
+	text-align: center;
+}
+
+#our_portfolio{
+	height: 500px;
+	background-color: #2e3e4f;
+}
+
+#what_we_offer{
+	height: 650px;
+	background-color: #f4f4f4;
+}
+
+#footer{
+	height: 450px;
+	background-color: #2e3e4f;
+	text-align: center;
+	color:white;
+}
+p#parrafoPie{
+	text-align: left;
+    font-size: 11px;
+}
+
+p#parrafoPie2{
+	text-align: left;
+	font-size: 10px;
+}
+
+p#parrafoPie3{
+    text-align: left;
+    font-size: 12px;
+}
+
+.btnBlog{
+	background-color:#f98561;
+    padding:5px 15px;
+    color:white;
+    border-radius: 5px 5px 5px 5px;
+    top: 10px;
+    border: none;
+    margin-top: 15px;
+}
+.btnBuscar{
+	padding: 0;
+    border: none;
+    background: none;
+    position: relative;
+    top: -3px;
+    left: 100px;
+}
+
+.parrOurPort{
+	color: #f4f4f4;
+}
+div#cabWhatWeOffer{
+	text-align: center;
+}
+
+h3#h3WhatWeOffer{
+	color:#2190c1;
+}
+
+h5#h5WhatWeOffer{
+	color: #2190c1;
+    font-weight: 900;
+}
+
+.btnVerMas{
+    background-color:#f98561;
+    padding: 5px 50px;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+    position: relative;
+    top: 10px;
+    font-size: 18px;
+    border: none;
+}
+
+.btnTrabajos {
+    background-color: #2190c1;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 9px;
+    border: none;
+    margin-top: 20px;
+    width: 80px;
+    height: 20px;
+}
+
+.btnWhatWeOffer{
+    background-color: #2190c1;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 18px;
+    border: none;
+    margin-top: 14px;
+    margin-left: 100px;
+}
+
+.btn-default {
+    background-color: #2190c1;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 18px;
+    border: none;
+    margin-left: 140px;
+}
+
+h3{
+    color: #f98561;
+    font-weight: 700;
+}
+
+h3#h3parrafo{
+	color: black;
+}
+
+h4{
+    font-size: 18px;
+    color: #f98561;
+    font-weight: 600;
+}
+
+.labelOurServices{
+	background-color:#f98561;
+}
+
+.navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>li>a:hover{
+    background-color: #12A3D6;
+    background-image: url(../img/nav/hover.png);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+
+.navbar-default .navbar-nav>li>a{
+	padding-top: 21px;
+}
+
+.carousel-indicators {
+    left: 80%;
+}
+
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+    background-color: #adadad;
+    border: none;
+}
+
+.carousel-indicators .active {
+    width: 15px;
+    height: 15px;
+    background-color: #2190c1;
+    border: 3px solid #f98561;
+}
+
+.carousel-caption {
+    padding-bottom: 100px;
+}
+
+h1{
+    font-family: IMPACT;
+}
+
+.label-primary {
+    background-color: #2190c1;
+    padding: 8px 30px;
+    font-size: 15px;
+}
+
+h5 {
+    font-weight: 600;
+}
+
+
+.JonDoe{
+	color:#f98561;
+	font-weight: 700;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.checkbox label, .radio label {
+    margin-left: 100px;
+}
+
+label {
+    display: block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 100;
+}
+
+table{
+	margin:auto;
+	color:white;
+}
+
+.hovereffect {
+  width: 100%;
+  height: 100%;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  cursor: default;
+}
+
+.hovereffect .overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  overflow: hidden;
+  left: 0;
+  background-color: rgba(255, 255, 255, 0.7);
+  top: -200px;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transition: all 0.1s ease-out 0.5s;
+  transition: all 0.1s ease-out 0.5s;
+}
+
+.hovereffect:hover .overlay {
+  opacity: 1;
+  filter: alpha(opacity=100);
+  top: 0px;
+  -webkit-transition-delay: 0s;
+  transition-delay: 0s;
+}
+
+.hovereffect img {
+  display: block;
+  position: relative;
+}
+
+.hovereffect h2 {
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  position: relative;
+  font-size: 17px;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.6);
+  -webkit-transform: translateY(-200px);
+  -ms-transform: translateY(-200px);
+  transform: translateY(-200px);
+  -webkit-transition: all ease-in-out 0.1s;
+  transition: all ease-in-out 0.1s;
+  -webkit-transition-delay: 0.3s;
+  transition-delay: 0.3s;
+}
+
+.hovereffect:hover h2 {
+  -webkit-transform: translateY(0px);
+  -ms-transform: translateY(0px);
+  transform: translateY(0px);
+  -webkit-transition-delay: 0.3s;
+  transition-delay: 0.3s;
+}
+
+.hovereffect a.info {
+  display: inline-block;
+  text-decoration: none;
+  padding: 7px 14px;
+  text-transform: uppercase;
+  margin: 50px 0 0 0;
+  background-color: transparent;
+  -webkit-transform: translateY(-200px);
+  -ms-transform: translateY(-200px);
+  transform: translateY(-200px);
+  color: #000;
+  border: 1px solid #000;
+  -webkit-transition: all ease-in-out 0.3s;
+  transition: all ease-in-out 0.3s;
+}
+
+.hovereffect a.info:hover {
+  box-shadow: 0 0 5px #fff;
+}
+
+.hovereffect:hover a.info {
+  -webkit-transform: translateY(0px);
+  -ms-transform: translateY(0px);
+  transform: translateY(0px);
+  box-shadow: 0 0 5px #000;
+  color: #000;
+  border: 1px solid #000;
+  -webkit-transition-delay: 0.3s;
+  transition-delay: 0.3s;
+}
